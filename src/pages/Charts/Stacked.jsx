@@ -2,7 +2,7 @@ import React from 'react'
 
 const Stacked = () => {
   return (
-    <div>stacked</div>
+    <div>COMING SOON...</div>
   )
 }
 
